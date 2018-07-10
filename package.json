@@ -21,7 +21,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "paulocfjunior",
   "license": "ISC",
-  "description": ""
+  "description": "Use case for add javascript into Liferay themes using themelets.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulocfjunior/javascript-demo-themelet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paulocfjunior/javascript-demo-themelet/issues"
+  },
+  "homepage": "https://github.com/paulocfjunior/javascript-demo-themelet#readme"
 }
