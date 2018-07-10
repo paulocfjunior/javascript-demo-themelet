@@ -1,6 +1,6 @@
 {
   "name": "javascript-demo-themelet",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "package.json",
   "keywords": [
     "liferay-theme"
