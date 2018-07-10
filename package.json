@@ -1,0 +1,27 @@
+{
+  "name": "javascript-demo-themelet",
+  "version": "0.0.0",
+  "main": "package.json",
+  "keywords": [
+    "liferay-theme"
+  ],
+  "liferayTheme": {
+    "screenshot": "",
+    "themelet": true,
+    "version": "*"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-requirejs": "^1.1.1",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
