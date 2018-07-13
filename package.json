@@ -32,5 +32,8 @@
   "bugs": {
     "url": "https://github.com/paulocfjunior/javascript-demo-themelet/issues"
   },
-  "homepage": "https://github.com/paulocfjunior/javascript-demo-themelet#readme"
+  "homepage": "https://github.com/paulocfjunior/javascript-demo-themelet#readme",
+  "publishConfig": {
+    "tag": "7_0_x"
+  }
 }
